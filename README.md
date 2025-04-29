@@ -1,6 +1,7 @@
 # jaozin 😄
 
-Olá! Eu sou o João Pedro, e sou apaixonado por aprender e me desenvolver em diversas áreas do conhecimento.
+Olá! Eu sou o João Pedro, e gosto muito de aprender e me desenvolver em diversas áreas do conhecimento.
+Atualmente cursando Técnico em Desenvolvimento de Sistemas na instituição SENAI.
 
 ### Formação
 
